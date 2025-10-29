@@ -1,0 +1,5 @@
+{
+  "name": "Smart Canteen Management System",
+  "description": "A web-based system to manage canteen operations including staff, products, orders, inventory, billing, and analytics. Features role-based access and data visualization dashboards.",
+  "requestFramePermissions": []
+}
